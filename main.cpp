@@ -4,7 +4,7 @@
 int main() {
     // TIP Press <shortcut actionId="RenameElement"/> when your caret is at the <b>lang</b> variable name to see how CLion can help you rename it.
     auto lang = "";
-    std::cout << "Hello, NUU! " << lang << "\n";
+    std::cout << "Hello,NUU! " << lang << "\n";
 
 
 
